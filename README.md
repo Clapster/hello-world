@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello future self!
+
+Clapster here, wörking on pkd project.
